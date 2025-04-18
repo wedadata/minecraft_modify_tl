@@ -1,0 +1,51 @@
+{
+  "activateSkinCapeForUserVersion": false,
+  "skipHashsumValidation": false,
+  "modsLibraries": [
+    {
+      "name": "optifine:OptiFine:OptiFine-1.16.5_HD_U_G8_pre2",
+      "artifact": {
+        "sha1": "d56f41f4e746b66ff0d63ecedf3781e2fa7ef1b1",
+        "size": 5400622,
+        "path": "optifine/OptiFine/OptiFine-1.16.5_HD_U_G8_pre2/OptiFine-1.16.5_HD_U_G8_pre2.jar",
+        "url": "http://res.tlauncher.org/unb/mods/9999999/11001943/OptiFine-1.16.5_HD_U_G8_pre2.jar"
+      }
+    }
+  ],
+  "additionalFiles": [
+    {
+      "sha1": "ee159223f41ac1578575f065e92480d07a49bb94",
+      "size": 11352644,
+      "path": "libraries/net/minecraft/client/1.16.5-20210115.111550/client-1.16.5-20210115.111550-srg.jar",
+      "url": "http://res.tlauncher.org/unb/libraries/cache/net/minecraft/client/1.16.5-20210115.111550/client-1.16.5-20210115.111550-srg-ee159223f41ac1578575f065e92480d07a49bb94.jar"
+    },
+    {
+      "sha1": "4aef4168f94d97bc73bf510213b2518942f931d1",
+      "size": 8428369,
+      "path": "libraries/net/minecraft/client/1.16.5-20210115.111550/client-1.16.5-20210115.111550-extra.jar",
+      "url": "http://res.tlauncher.org/unb/libraries/cache/net/minecraft/client/1.16.5-20210115.111550/client-1.16.5-20210115.111550-extra.jar"
+    },
+    {
+      "sha1": "045d6edac8fe1b004e159c49704b5b729f551079",
+      "size": 9118806,
+      "path": "libraries/net/minecraft/client/1.16.5-20210115.111550/client-1.16.5-20210115.111550-slim.jar",
+      "url": "http://res.tlauncher.org/unb/libraries/cache/net/minecraft/client/1.16.5-20210115.111550/client-1.16.5-20210115.111550-slim.jar"
+    },
+    {
+      "sha1": "fd07fe6c2c1cc7d3e403a1db7eadfa935ca7640d",
+      "size": 2540080,
+      "path": "libraries/net/minecraftforge/forge/1.16.5-36.2.42/forge-1.16.5-36.2.42-universal.jar",
+      "url": "http://res.tlauncher.org/unb/libraries/cache/net/minecraftforge/forge/1.16.5-36.2.42/forge-1.16.5-36.2.42-universal.jar"
+    },
+    {
+      "sha1": "427f13ce6f486c182c9693e94e907e2eb049773f",
+      "size": 4214276,
+      "path": "libraries/net/minecraftforge/forge/1.16.5-36.2.42/forge-1.16.5-36.2.42-client.jar",
+      "url": "http://res.tlauncher.org/unb/libraries/cache/net/minecraftforge/forge/1.16.5-36.2.42/forge-1.16.5-36.2.42-client.jar"
+    }
+  ],
+  "tlauncherVersion": 0,
+  "source": "local_version_repo",
+  "skinVersion": false,
+  "updatedTime": "2021-12-13T12:15:39+05:30"
+}
